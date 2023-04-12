@@ -16,3 +16,10 @@ Using React, create a simple form with two fields: 'name' and 'age'
     Vite
     bootstrap
     zod
+    vercel
+
+### Deploy Info
+
+    GitHub URL - https://github.com/rhwette/React-Form.git
+
+    Deployed URL - https://react-form-puce.vercel.app
